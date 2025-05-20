@@ -6,7 +6,8 @@ This repository contains resources related to **Predictive Modeling and Explaina
 Due to GitHub's file size limitations, the Jupyter Notebook will be hosted on **Google Drive** soon. The link will be added shortly.
 
 ## 📂 Access the Notebook
-🔗 **Notebook link will be available soon. Stay tuned!**
+🔗 **[Click here to access the Notebook on Google Drive](https://drive.google.com/file/d/1TNqP8U3LQ_H65bgZNXU2FzeKZgVLGwcY/view?usp=share_link)**
 
-📢 _Once available, the link will be provided here for easy access._
+Feel free to explore the code and reach out with any questions or feedback!
+
 
