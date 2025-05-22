@@ -3,9 +3,6 @@
 ## 📌 Overview
 This repository contains resources related to **Predictive Modeling and Explainability in AI**, with applications in **Drug Discovery**.
 
-Due to GitHub's file size limitations, the Jupyter Notebook will be hosted on **Google Drive** soon. The link will be added shortly.
-
 ## 📂 Access the Notebook
-🔗 Notebook link will be available soon. Stay tuned!
-
-📢 Once available, the link will be provided here for easy access. 
+Due to GitHub's file size limitations, the Jupyter Notebook is hosted on **Google Drive**. You can access it here: 
+[Google Drive Folder](https://drive.google.com/drive/folders/1gnrmGN1oxgeHSBW5paxdB7j9EjW-nR_G?usp=sharing).
